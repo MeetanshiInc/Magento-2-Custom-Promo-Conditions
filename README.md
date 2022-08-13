@@ -3,7 +3,7 @@ Offer custom discounts and offers to the customers on your Magento 2 store using
 
 In eCommerce, customer loyalty plays a vital role in taking the business to the next level. Appreciating the loyal customers through custom discounts and promotions is one such way to enhance the customer loyalty towards the business and improve the retention.
 
-Providing custom discounts to the regular customers is often common for the brick-and-mortar businesses. It allows the strengthen the business-customer relationship and allows helps solidifying branding. Meetanshi has developed ***[Magento 2 Custom Promo Conditions](https://meetanshi.com/magento-2-sql-report-builder.html)*** extension to allow such functionality to the customers in your online store.
+Providing custom discounts to the regular customers is often common for the brick-and-mortar businesses. It allows the strengthen the business-customer relationship and allows helps solidifying branding. Meetanshi has developed ***[Magento 2 Custom Promo Conditions](https://meetanshi.com/magento-2-custom-promo-conditions.html)*** extension to allow such functionality to the customers in your online store.
 
 “Customer Loyalty is the first step towards brand building”
 
